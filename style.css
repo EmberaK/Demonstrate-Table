@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+}
+
+table {
+    border: 4px rgb(110, 104, 104) ridge;
+    width: 100%;
+    height: 400px;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    padding: 2px;
+    border: 1px black solid;
+
+}
+/* 
+tr td b {
+    font-size: x-large;
+} */
